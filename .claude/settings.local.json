@@ -6,7 +6,10 @@
       "Bash(python:*)",
       "Bash(npm update:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(gh auth status:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: CS 스터디 프로젝트 - Week01 MyArrayList 구현\n\n- MyArrayList: add, get, set, remove, contains, indexOf 등 구현\n- validCheck / validCheckForAdd로 인덱스 유효성 검사 분리\n- Week01~12 미션 구조 및 학습 가이드 포함\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(gh repo create:*)"
     ]
   }
 }

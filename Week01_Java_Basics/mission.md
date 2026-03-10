@@ -11,7 +11,7 @@
 *   JVM 메모리 구조 (Method, Stack, Heap Areas)
 *   Primitive Type vs Reference Type (Call by Value vs Call by Reference)
 *   OOP 4대 특성: 캡슐화, 상속, 다형성, 추상화
-*   Overloading vs Overriding
+*   Overloading vs   Overriding
 *   Interface vs Abstract Class (언제 무엇을 써야 할까?)
 *   `static` 키워드의 의미와 메모리 위치
 
